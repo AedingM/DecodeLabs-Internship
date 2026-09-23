@@ -50,11 +50,11 @@ Columns affected - Quantity, ItemsInCart. These were set to accept only values f
 Categorical Validation:
 Columns affected - Product, PaymentMethod and OrderStatus. 
 
-Products - This was set to accept only values from a list of 7 items available for sale (Chair, Desk, Laptop, Monitor, Phone, Printer and Tablet). The product listing can be updated when there are additional items, by adding the item to the sheet labelled "Validations"
+Products - This was set to accept only values from a list of 7 predefined items available for sale (Chair, Desk, Laptop, Monitor, Phone, Printer and Tablet). The product listing can be updated when there are additional items, by adding the item to the sheet labelled "Validations"
 
-OrderStatus - Set to accept only from the 5 possible items in the "OrderStatus" column in the sheet labelled "Validations". This can also be updated when there are more possible items.
+OrderStatus - Set to accept only from the 5 possible predefined items in the "OrderStatus" column in the sheet labelled "Validations". This can also be updated when there are more possible items.
 
-PaymentMethods - Set to accept any one of the possible items from the "PaymentMethods" column in the "Validations" sheet.
+PaymentMethods - Set to accept any one of the possible predefined items from the "PaymentMethods" column in the "Validations" sheet.
 
 ![alt text](image-5.png)
 
