@@ -76,5 +76,13 @@ I grouped average order value by each payment method. This shows which payment m
 4. Summarize Key Insights and Observations
 
 a. Overall Sales Performance
-The anaysis showed that the highest performing product by TotalSalesPrice (Revenue), 
+The anaysis showed that the highest performing product was the "Chair" with a total revenue of $195,620.11 accounting for 15.47% of the total sales. The "Phone" was the least performing, a total of $151,722.39 accounting for 12% of the total sales.
+
+However, there has been a general decline of total sales over the years with the last year dropping significantly.
+
+b. Top Performing Channels (Marketing - Referral Source)
+The highest revenue of sales came from "Instagram" accounting for 21.77% of the Total sales. This means that the largest amount of customers were referred by Instagram. 
+However, the sales from "Facebook" had more value on average. I would suggest the company increase their Facebook marketing efforts.
+
+
 
